@@ -6,6 +6,7 @@ It reduces the dataset to **2 principal components** and includes an optional **
 
 ## Tasks Completed
 ✅ **Installation**: Install scikit-learn on Vscode Plaform.
+
 ✅ **Load Dataset**: Convert it into a Pandas DataFrame.  
 ✅ **Data Standardization**: Scale features for better PCA performance.  
 ✅ **Apply PCA**: Reduce the dataset to **2 components**.  
