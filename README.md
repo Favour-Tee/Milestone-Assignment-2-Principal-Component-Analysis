@@ -22,7 +22,7 @@ It reduces the dataset to **2 principal components** and includes an optional **
    ```bash
    pip install numpy pandas scikit-learn seaborn matplotli
    
-## **📦 Final Submission Instructions**
+## ** Final Submission Instructions**
 1. **Save files**:
    - `pca_analysis.py` (Python script)
    - `pca_transformed_data.csv` (PCA results)
@@ -30,7 +30,7 @@ It reduces the dataset to **2 principal components** and includes an optional **
 2. **Zip the files** into `PCA_Analysis.zip`
 3. **Push to GitHub** or **Submit as a ZIP file**.
 
-## **🔥 Key Takeaways**
+## ** Key Takeaways**
 ✅ **PCA successfully applied** to reduce dimensions  
 ✅ **Scatter plot created** to visualize class separation  
 ✅ **Logistic Regression achieved ~95% accuracy**  
